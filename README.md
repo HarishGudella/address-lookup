@@ -1,4 +1,11 @@
 # address-lookup
+## Setup Instructions
+* Make sure postgres installed locally
+* Clone the repo
+* Execute SQL from `sql/setup.sql`
+* Install dependencies by running ``npm install``
+* Run ``npm start`` to start the project.
+* Server should listen on port 3000.
 ## API Specification
 
 | Name | Address Lookup |
